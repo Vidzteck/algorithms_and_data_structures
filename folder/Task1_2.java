@@ -1,3 +1,4 @@
+//реализация пустого списка и стека на Java
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
@@ -8,4 +9,3 @@ public class Main {
         Stack<Integer> myStack = new Stack<>();   //пустой стек
     }
 }
-
