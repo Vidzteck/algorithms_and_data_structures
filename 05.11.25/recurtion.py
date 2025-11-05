@@ -9,3 +9,7 @@ def reverse_string(s):
 test_str = "hello"
 print(f"Оригинал: {test_str}")
 print(f"Перевёрнутая: {reverse_string(test_str)}")
+
+#Вывод
+#Оригинал: hello
+#Перевёрнутая: olleh
